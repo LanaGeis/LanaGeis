@@ -14,6 +14,18 @@ I'm Lana, a passionate data enthusiast making the exciting leap from finance to 
 
 ## Projects
 - [Employment Trend Analysis: Is AI taking our jobs or transforming them?](https://github.com/LanaGeis/Employment-Trend-Analysis) – milestone-based data science project using BLS, O*NET, and other public data to explore how automation and AI affect U.S. occupations and skills, with analysis in Python and Power BI.
+- 
+- US Baby Names Exploration (1880–2019): Generational Naming Patterns
+
+This project analyzes 140 years of US baby name data (1880–2019) to uncover long-term trends, cultural shifts, and generational naming patterns. Using Python and Matplotlib, the project visualizes:
+
+- Total births by year and gender  
+- Top 5 male and female names across the entire dataset  
+- Faceted charts showing generational naming preferences  
+- Shifts in name diversity across generations  
+
+The analysis is based on the Social Security Administration's national baby names dataset.
+
 
 
 ## 🛠️ Languages & Tools
