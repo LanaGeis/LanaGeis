@@ -12,6 +12,9 @@ I'm Lana, a passionate data enthusiast making the exciting leap from finance to 
 - 💬 Ask me about finance analytics, Excel automation, or how to turn raw data into actionable insights!
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lana-geissinger-b76690113)
 
+## Projects
+- [Employment Trend Analysis: Is AI taking our jobs or transforming them?](https://github.com/LanaGeis/Employment-Trend-Analysis) – milestone-based data science project using BLS, O*NET, and other public data to explore how automation and AI affect U.S. occupations and skills, with analysis in Python and Power BI.
+
 
 ## 🛠️ Languages & Tools
 
