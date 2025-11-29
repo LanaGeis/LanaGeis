@@ -15,6 +15,7 @@ I'm Lana, a passionate data enthusiast making the exciting leap from finance to 
 ## Projects
 - [Employment Trend Analysis: Is AI taking our jobs or transforming them?](https://github.com/LanaGeis/Employment-Trend-Analysis) – milestone-based data science project using BLS, O*NET, and other public data to explore how automation and AI affect U.S. occupations and skills, with analysis in Python and Power BI.
 - [US Baby Names Exploration 1880-2019](https://github.com/LanaGeis/US_baby_names_exploration) - 140-year analysis of naming patterns, cultural changes, and generational shifts using the SSA dataset. Includes data cleaning and visualizations in Python.
+- [MAP-Student-Math-Misunderstandings-Kaggle Competition](https://github.com/LanaGeis/MAP-Student-Math-Misunderstandings_Kaggle) - This project uses Natural Language Processing (NLP) and Machine Learning to identify student math misconceptions from open-ended responses. It is based on the [Kaggle competition dataset](https://www.kaggle.com/competitions/map-charting-student-math-misunderstandings/overview)
 
 
 
