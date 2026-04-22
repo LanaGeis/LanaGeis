@@ -1,30 +1,76 @@
-# LanaGeis
-# 👋 Hi there!
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6baed6,100:08306b&height=150&section=header&text=Lana%20Geissinger&fontSize=30&fontColor=ffffff)
 
-I'm Lana — a data enthusiast transitioning from finance into data analytics and data science.
+# 👋 Hi, I'm Lana  
 
-- 💼 With 15+ years in finance and business operations, I bring strong analytical thinking and data-driven decision-making.
-- 📊 Currently mastering R, Python, SQL, and Power BI as part of my data analytics journey.
-- 📚 Pursuing a Master’s in Data Science to deepen my expertise in machine learning, statistics, and modern analytics.
-- 🔍 Passionate about uncovering insights that support smarter business strategy and operational efficiency.
-- 🌱 Continuously learning — from data wrangling and visualization to predictive modeling and NLP.
-- 🤝 Open to collaborating on data projects and connecting with others in analytics or tech.
-- 💬 Ask me about finance analytics, Excel automation, or turning messy data into actionable insights!
+**Data Analytics | Predictive Modeling | Finance → Data Science**
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lana-geissinger-b76690113)
+I turn complex data into clear, actionable insights that support smarter business decisions.
 
 ---
 
-## Projects
+## 💼 Background  
 
-- **[Employment Trend Analysis: Is AI Taking Our Jobs or Transforming Them?](https://github.com/LanaGeis/Employment-Trend-Analysis)**  
-  A milestone-based data science project using BLS, O*NET, and public labor datasets to explore how automation and AI impact U.S. occupations and required skills. Includes Python analysis, visualization, and Power BI dashboards.
+- 15+ years in **finance and business operations**  
+- Strong foundation in **analytical thinking and data-driven decision-making**  
+- Transitioning into **data analytics and data science**  
 
-- **[US Baby Names Exploration (1880–2019)](https://github.com/LanaGeis/US_baby_names_exploration)**  
-  A 140-year analysis of naming patterns, cultural shifts, and generational trends using the SSA dataset. Features data cleaning, Matplotlib visualizations, and exploratory analysis.
+---
 
-- **[MAP Student Math Misunderstandings (Kaggle NLP Project)](https://github.com/LanaGeis/MAP-Student-Math-Misunderstandings_Kaggle)**  
-  NLP + Machine Learning project identifying student math misconceptions using open-ended responses. Includes TF-IDF, embeddings, logistic regression, deep learning baselines, and full model evaluation.
+## 🎓 Education  
+
+- Master’s in **Data Science (in progress)**  
+- Focus: Machine Learning, Statistics, Predictive Analytics  
+
+---
+
+## 🚀 What I Do  
+
+- 📊 Analyze data to uncover trends, risks, and opportunities  
+- 🤖 Build models for prediction and anomaly detection  
+- 📈 Design dashboards for business decision-making  
+- 🧹 Clean and structure messy real-world data  
+
+---
+
+## 🧠 Current Focus  
+
+- Predictive analytics & anomaly detection  
+- NLP and text-based modeling  
+- Business-focused data storytelling  
+
+---
+
+## 📂 Featured Projects  
+
+### 🔹 [Employment Trend Analysis](https://github.com/LanaGeis/Employment-Trend-Analysis)  
+AI & automation impact on jobs using BLS and O*NET data  
+→ Python analysis + Power BI dashboards  
+
+---
+
+### 🔹 [US Baby Names Exploration (1880–2019)](https://github.com/LanaGeis/US_baby_names_exploration)  
+140-year trend analysis of cultural and generational shifts  
+→ Data cleaning + visualization in Python  
+
+---
+
+### 🔹 [Student Math Misunderstandings (Kaggle NLP)](https://github.com/LanaGeis/MAP-Student-Math-Misunderstandings_Kaggle)  
+NLP model to detect student misconceptions from open responses  
+→ TF-IDF, embeddings, classification models  
+
+---
+
+---
+
+## 🤝 Let’s Connect  
+
+📫 [LinkedIn](https://www.linkedin.com/in/lana-geissinger-b76690113)
+
+---
+
+## 💡 Value  
+
+I combine **business experience + technical skills** to not just analyze data—but translate it into decisions that drive efficiency, reduce risk, and support growth.
 
 ---
 
@@ -41,11 +87,14 @@ I'm Lana — a data enthusiast transitioning from finance into data analytics an
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Excel Automation](https://img.shields.io/badge/Excel%20Automation-VBA%20%7C%20Formulas-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 
