@@ -26,6 +26,8 @@ I use analytics, reporting, and predictive modeling to turn complex data into cl
 ## 🎓 Education
 
 - Master’s in **Data Science (in progress)**
+- Bachelor’s degree in **Economics and Management**
+- Bachelor’s degree in **Accounting**
 - Focus: Machine Learning, Statistics, Predictive Analytics
 
 ---
