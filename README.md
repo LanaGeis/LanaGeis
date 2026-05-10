@@ -1,76 +1,65 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6baed6,100:08306b&height=150&section=header&text=Lana%20Geissinger&fontSize=30&fontColor=ffffff)
 
-# 👋 Hi, I'm Lana  
+# 👋 Hi, I'm Lana
 
-**Data Analytics | Predictive Modeling | Finance → Data Science**
+**Aspiring Data Scientist with 15+ years of experience in finance and business operations.**  
+I use data analytics, predictive modeling, and visualization to turn complex data into insights that improve decisions, reduce risk, and support growth.
 
-I turn complex data into clear, actionable insights that support smarter business decisions.
-
----
-
-## 💼 Background  
-
-- 15+ years in **finance and business operations**  
-- Strong foundation in **analytical thinking and data-driven decision-making**  
-- Transitioning into **data analytics and data science**  
+### 🔍 Core Strengths
+- Predictive analytics & anomaly detection
+- NLP and text-based modeling
+- Business-focused dashboards and storytelling
+- Data cleaning, transformation, and exploratory analysis
 
 ---
 
-## 🎓 Education  
+## 💼 Background
 
-- Master’s in **Data Science (in progress)**  
-- Focus: Machine Learning, Statistics, Predictive Analytics  
-
----
-
-## 🚀 What I Do  
-
-- 📊 Analyze data to uncover trends, risks, and opportunities  
-- 🤖 Build models for prediction and anomaly detection  
-- 📈 Design dashboards for business decision-making  
-- 🧹 Clean and structure messy real-world data  
+- 15+ years in **finance and business operations**
+- Strong foundation in **analytical thinking and data-driven decision-making**
+- Transitioning into **data analytics and data science**
 
 ---
 
-## 🧠 Current Focus  
+## 🎓 Education
 
-- Predictive analytics & anomaly detection  
-- NLP and text-based modeling  
-- Business-focused data storytelling  
+- Master’s in **Data Science (in progress)**
+- Focus: Machine Learning, Statistics, Predictive Analytics
 
 ---
 
-## 📂 Featured Projects  
+## 🚀 What I Do
 
-### 🔹 [Employment Trend Analysis](https://github.com/LanaGeis/Employment-Trend-Analysis)  
+- 📊 Analyze data to uncover trends, risks, and opportunities
+- 🤖 Build models for prediction and anomaly detection
+- 📈 Design dashboards for business decision-making
+- 🧹 Clean and structure messy real-world data
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 [Employment Trend Analysis](https://github.com/LanaGeis/Employment-Trend-Analysis)
 AI & automation impact on jobs using BLS and O*NET data  
-→ Python analysis + Power BI dashboards  
+→ Python analysis + Power BI dashboards
 
 ---
 
-### 🔹 [US Baby Names Exploration (1880–2019)](https://github.com/LanaGeis/US_baby_names_exploration)  
+### 🔹 [US Baby Names Exploration (1880–2019)](https://github.com/LanaGeis/US_baby_names_exploration)
 140-year trend analysis of cultural and generational shifts  
-→ Data cleaning + visualization in Python  
+→ Data cleaning + visualization in Python
 
 ---
 
-### 🔹 [Student Math Misunderstandings (Kaggle NLP)](https://github.com/LanaGeis/MAP-Student-Math-Misunderstandings_Kaggle)  
+### 🔹 [Student Math Misunderstandings (Kaggle NLP)](https://github.com/LanaGeis/MAP-Student-Math-Misunderstandings_Kaggle)
 NLP model to detect student misconceptions from open responses  
-→ TF-IDF, embeddings, classification models  
+→ TF-IDF, embeddings, classification models
 
 ---
 
----
-
-## 🤝 Let’s Connect  
+## 🤝 Let’s Connect
 
 📫 [LinkedIn](https://www.linkedin.com/in/lana-geissinger-b76690113)
-
----
-
-## 💡 Value  
-
-I combine **business experience + technical skills** to not just analyze data—but translate it into decisions that drive efficiency, reduce risk, and support growth.
 
 ---
 
@@ -94,7 +83,3 @@ I combine **business experience + technical skills** to not just analyze data—
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
