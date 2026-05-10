@@ -10,6 +10,7 @@ I use data analytics, predictive modeling, and visualization to turn complex dat
 - NLP and text-based modeling
 - Business-focused dashboards and storytelling
 - Data cleaning, transformation, and exploratory analysis
+- Power BI development and reporting solutions
 
 ---
 
@@ -33,7 +34,17 @@ I use data analytics, predictive modeling, and visualization to turn complex dat
 - 📊 Analyze data to uncover trends, risks, and opportunities
 - 🤖 Build models for prediction and anomaly detection
 - 📈 Design dashboards for business decision-making
+- 📉 Build Power BI reports and data visualization solutions
 - 🧹 Clean and structure messy real-world data
+
+---
+
+## 📊 Power BI Development
+
+- Build interactive dashboards and executive-ready reports
+- Create KPI tracking and performance-monitoring solutions
+- Transform raw data into clear, business-friendly visuals
+- Support decision-making with scalable reporting workflows
 
 ---
 
