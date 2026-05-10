@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Lana
 
-**Aspiring Data Analyst and BI Developer with 15+ years of experience in finance and business operations.**  
+**Financial Billing Analyst with 15+ years of experience in finance, billing operations, and business reporting, transitioning into Data Analytics and BI Development**  
 I use analytics, reporting, and predictive modeling to turn complex data into clear insights that improve decision-making, reduce risk, and support business growth.
 
 ### 🔍 Core Strengths
