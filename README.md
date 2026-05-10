@@ -2,15 +2,15 @@
 
 # 👋 Hi, I'm Lana
 
-**Aspiring Data Scientist with 15+ years of experience in finance and business operations.**  
-I use data analytics, predictive modeling, and visualization to turn complex data into insights that improve decisions, reduce risk, and support growth.
+**Aspiring Data Analyst and BI Developer with 15+ years of experience in finance and business operations.**  
+I use analytics, reporting, and predictive modeling to turn complex data into clear insights that improve decision-making, reduce risk, and support business growth.
 
 ### 🔍 Core Strengths
-- Predictive analytics & anomaly detection
-- NLP and text-based modeling
-- Business-focused dashboards and storytelling
+- Data analysis, reporting, and business intelligence
+- Power BI development and dashboard solutions
+- KPI tracking, trend analysis, and business-focused storytelling
+- Predictive analytics, anomaly detection, and NLP
 - Data cleaning, transformation, and exploratory analysis
-- Power BI development and reporting solutions
 
 ---
 
@@ -18,7 +18,8 @@ I use data analytics, predictive modeling, and visualization to turn complex dat
 
 - 15+ years in **finance and business operations**
 - Strong foundation in **analytical thinking and data-driven decision-making**
-- Transitioning into **data analytics and data science**
+- Transitioning into **data analytics, business intelligence, and data science**
+- Experienced in translating business needs into clear reporting and actionable insights
 
 ---
 
@@ -32,10 +33,10 @@ I use data analytics, predictive modeling, and visualization to turn complex dat
 ## 🚀 What I Do
 
 - 📊 Analyze data to uncover trends, risks, and opportunities
+- 📈 Build Power BI dashboards and reporting solutions for business decision-making
+- 🧾 Develop KPI tracking and executive-ready reports
 - 🤖 Build models for prediction and anomaly detection
-- 📈 Design dashboards for business decision-making
-- 📉 Build Power BI reports and data visualization solutions
-- 🧹 Clean and structure messy real-world data
+- 🧹 Clean, transform, and structure messy real-world data
 
 ---
 
@@ -45,26 +46,33 @@ I use data analytics, predictive modeling, and visualization to turn complex dat
 - Create KPI tracking and performance-monitoring solutions
 - Transform raw data into clear, business-friendly visuals
 - Support decision-making with scalable reporting workflows
+- Combine analytics and storytelling to make insights easy to act on
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🔹 [Employment Trend Analysis](https://github.com/LanaGeis/Employment-Trend-Analysis)
-AI & automation impact on jobs using BLS and O*NET data  
-→ Python analysis + Power BI dashboards
+Analyzed the impact of AI and automation on jobs using BLS and O*NET data.
+- Built Python workflows for data cleaning, analysis, and trend exploration
+- Developed Power BI dashboards to communicate workforce patterns and risk areas
+- Translated labor market data into business-friendly visual insights for decision-making
 
 ---
 
 ### 🔹 [US Baby Names Exploration (1880–2019)](https://github.com/LanaGeis/US_baby_names_exploration)
-140-year trend analysis of cultural and generational shifts  
-→ Data cleaning + visualization in Python
+Explored 140 years of naming trends to identify cultural and generational patterns.
+- Cleaned and prepared long-range historical data for analysis in Python
+- Created visualizations to highlight naming shifts, popularity cycles, and social trends
+- Used exploratory analysis to turn raw data into a clear narrative supported by visuals
 
 ---
 
 ### 🔹 [Student Math Misunderstandings (Kaggle NLP)](https://github.com/LanaGeis/MAP-Student-Math-Misunderstandings_Kaggle)
-NLP model to detect student misconceptions from open responses  
-→ TF-IDF, embeddings, classification models
+Built an NLP-based project to identify student misconceptions from open-ended responses.
+- Applied TF-IDF, embeddings, and classification models to text-based educational data
+- Explored how machine learning can surface misunderstanding patterns at scale
+- Combined analytical modeling with practical interpretation of model outputs
 
 ---
 
