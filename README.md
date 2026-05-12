@@ -62,6 +62,14 @@ Analyzed the impact of AI and automation on jobs using BLS and O*NET data.
 
 ---
 
+### 🔹 [Power BI Paginated Excel Export](https://github.com/LanaGeis/powerbi-paginated-excel-export)
+Built a Power BI solution for exporting paginated reports to Excel to support structured reporting and business workflows.
+- Created a reusable solution focused on paginated report export processes
+- Supported operational reporting needs with Excel-based output from Power BI
+- Demonstrated practical Power BI development for business reporting use cases
+
+---
+
 ### 🔹 [US Baby Names Exploration (1880–2019)](https://github.com/LanaGeis/US_baby_names_exploration)
 Explored 140 years of naming trends to identify cultural and generational patterns.
 - Cleaned and prepared long-range historical data for analysis in Python
