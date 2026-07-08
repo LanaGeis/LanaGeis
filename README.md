@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Lana
 
-**Financial Billing Analyst with 15+ years of experience in finance, billing operations, and business reporting, transitioning into Data Analytics and BI Development**  
-I use analytics, reporting, and predictive modeling to turn complex data into clear insights that improve decision-making, reduce risk, and support business growth.
+**Financial Billing Analyst with 17+ years of experience in finance, billing operations, revenue analytics, and business intelligence. I build dashboards, automate reporting, and use AI-driven analytics to transform complex data into actionable business insights.**  
+
 
 ### 🔍 Core Strengths
 - Data analysis, reporting, and business intelligence
