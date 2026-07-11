@@ -2,7 +2,67 @@
 
 # 👋 Hi, I'm Lana
 
-**Financial Billing Analyst with 17+ years of experience in finance, billing operations, revenue analytics, and business intelligence. I build dashboards, automate reporting, and use AI-driven analytics to transform complex data into actionable business insights.**  
+**Financial & Data Analyst | Power BI | SQL | Python | R**
+
+I’m a Financial Billing Analyst with 17+ years of experience in finance, billing operations, and analytics. I build Power BI dashboards, automate reporting, and deliver KPI-driven insights that support business and executive decision-making.
+
+---
+
+## 🎯 Focus Areas
+
+- Financial analysis and performance reporting  
+- Power BI dashboard development and KPI scorecards  
+- Revenue and billing analytics  
+- Data analysis, trend/variance analysis, and root-cause insights  
+- Reporting automation and decision support  
+
+---
+
+## 🧠 Core Skills
+
+- **Power BI:** Data modeling, DAX, Power Query, dashboard design, drill-through reporting  
+- **SQL:** Data extraction, joins, aggregations, KPI/metric logic  
+- **Python:** pandas, EDA, data cleaning and transformation  
+- **R:** Statistical analysis and visualization  
+- **Excel/Tableau:** Business reporting and analytics workflows  
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 [Employment Trend Analysis](https://github.com/LanaGeis/Employment-Trend-Analysis)
+- Analyzed AI/automation impact on workforce trends (BLS + O*NET)
+- Built Python workflows for data prep and analysis
+- Developed Power BI dashboards for trend and risk insights
+
+### 🔹 [Power BI Paginated Excel Export](https://github.com/LanaGeis/powerbi-paginated-excel-export)
+- Built reusable Power BI paginated-to-Excel reporting workflow
+- Improved consistency for operational reporting outputs
+- Demonstrated scalable BI reporting solution design
+
+### 🔹 [US Baby Names Exploration (1880–2019)](https://github.com/LanaGeis/US_baby_names_exploration)
+- Performed long-range trend analysis on 140 years of data
+- Cleaned and analyzed data in Python
+- Created visual insights and narrative-driven reporting
+
+### 🔹 [Student Math Misunderstandings (Kaggle NLP)](https://github.com/LanaGeis/MAP-Student-Math-Misunderstandings_Kaggle)
+- Applied TF-IDF, embeddings, and classification techniques
+- Identified misconception patterns from text responses
+- Connected model outputs to practical analytical insights
+
+---
+
+## 🎓 Education
+
+- Master’s in **Data Science** (in progress)  
+- Bachelor’s in **Economics and Management**  
+- Bachelor’s in **Accounting**
+
+---
+
+## 🤝 Connect
+
+📫 [LinkedIn](https://www.linkedin.com/in/lana-geissinger-b76690113)**Financial Billing Analyst with 17+ years of experience in finance, billing operations, revenue analytics, and business intelligence. I build dashboards, automate reporting, and use AI-driven analytics to transform complex data into actionable business insights.**  
 
 
 ### 🔍 Core Strengths
