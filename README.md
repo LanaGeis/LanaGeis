@@ -1,174 +1,94 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6baed6,100:08306b&height=150&section=header&text=Lana%20Geissinger&fontSize=30&fontColor=ffffff)
 
-# 👋 Hi, I'm Lana
+# Hi, I'm Lana Geissinger
 
-**Financial & Data Analyst | Power BI | SQL | Python | R**
+## Financial & Data Analyst | Power BI Reporting | SQL | Python | R
 
-I’m a Financial Billing Analyst with 17+ years of experience in finance, billing operations, and analytics. I build Power BI dashboards, automate reporting, and deliver KPI-driven insights that support business and executive decision-making.
+I am a Financial Billing Analyst with 17+ years of experience across finance, billing operations, revenue analytics, and business reporting. I build Power BI dashboards, automate recurring reporting workflows, and turn complex financial and operational data into clear, KPI-driven insights for business and executive decision-making.
 
----
-
-## 🎯 Focus Areas
-
-- Financial analysis and performance reporting  
-- Power BI dashboard development and KPI scorecards  
-- Revenue and billing analytics  
-- Data analysis, trend/variance analysis, and root-cause insights  
-- Reporting automation and decision support  
+**Focus:** Financial analysis • Power BI reporting • Revenue and billing analytics • KPI development • Reporting automation • Data storytelling
 
 ---
 
-## 🧠 Core Skills
+## What I Bring
 
-- **Power BI:** Data modeling, DAX, Power Query, dashboard design, drill-through reporting  
-- **SQL:** Data extraction, joins, aggregations, KPI/metric logic  
-- **Python:** pandas, EDA, data cleaning and transformation  
-- **R:** Statistical analysis and visualization  
-- **Excel/Tableau:** Business reporting and analytics workflows  
-
----
-
-## 📂 Featured Projects
-
-### 🔹 [Employment Trend Analysis](https://github.com/LanaGeis/Employment-Trend-Analysis)
-- Analyzed AI/automation impact on workforce trends (BLS + O*NET)
-- Built Python workflows for data prep and analysis
-- Developed Power BI dashboards for trend and risk insights
-
-### 🔹 [Power BI Paginated Excel Export](https://github.com/LanaGeis/powerbi-paginated-excel-export)
-- Built reusable Power BI paginated-to-Excel reporting workflow
-- Improved consistency for operational reporting outputs
-- Demonstrated scalable BI reporting solution design
-
-### 🔹 [US Baby Names Exploration (1880–2019)](https://github.com/LanaGeis/US_baby_names_exploration)
-- Performed long-range trend analysis on 140 years of data
-- Cleaned and analyzed data in Python
-- Created visual insights and narrative-driven reporting
-
-### 🔹 [Student Math Misunderstandings (Kaggle NLP)](https://github.com/LanaGeis/MAP-Student-Math-Misunderstandings_Kaggle)
-- Applied TF-IDF, embeddings, and classification techniques
-- Identified misconception patterns from text responses
-- Connected model outputs to practical analytical insights
+- Deliver Power BI dashboards and executive-ready reports that make performance easy to monitor and act on
+- Analyze financial and operational data to identify trends, variances, risks, and opportunities
+- Develop KPI scorecards and reporting frameworks that align metrics with business priorities
+- Translate stakeholder questions into practical data requirements, metrics, visuals, and actionable insights
+- Improve reporting consistency through streamlined, repeatable workflows and data-quality-focused analysis
 
 ---
 
-## 🎓 Education
+## Analytics & BI Toolkit
 
-- Master’s in **Data Science** (in progress)  
-- Bachelor’s in **Economics and Management**  
-- Bachelor’s in **Accounting**
-
----
-
-## 🤝 Connect
-
-📫 [LinkedIn](https://www.linkedin.com/in/lana-geissinger-b76690113)**Financial Billing Analyst with 17+ years of experience in finance, billing operations, revenue analytics, and business intelligence. I build dashboards, automate reporting, and use AI-driven analytics to transform complex data into actionable business insights.**  
-
-
-### 🔍 Core Strengths
-- Data analysis, reporting, and business intelligence
-- Power BI development and dashboard solutions
-- KPI tracking, trend analysis, and business-focused storytelling
-- Predictive analytics, anomaly detection, and NLP
-- Data cleaning, transformation, and exploratory analysis
+| Area | Skills |
+| --- | --- |
+| **Power BI** | Data modeling, DAX, Power Query, dashboard design, drill-through reporting, KPI scorecards, paginated reporting |
+| **SQL** | Data extraction, joins, aggregations, transformations, and metric logic |
+| **Python** | pandas, exploratory data analysis, data cleaning, transformation, and visualization |
+| **R** | Statistical analysis, visualization, and exploratory analysis |
+| **Business Analytics** | Financial reporting, revenue and billing analytics, variance analysis, trend analysis, root-cause investigation |
+| **Reporting Tools** | Excel, Tableau, Jupyter Notebook, RStudio, Git/GitHub |
 
 ---
 
-## 💼 Background
+## Featured Projects
 
-- 15+ years in **finance and business operations**
-- Strong foundation in **analytical thinking and data-driven decision-making**
-- Transitioning into **data analytics, business intelligence, and data science**
-- Experienced in translating business needs into clear reporting and actionable insights
+### [Employment Trend Analysis](https://github.com/LanaGeis/Employment-Trend-Analysis)
+**Workforce analytics project using BLS and O*NET data to examine AI and automation impacts on jobs.**
 
----
+- Built Python workflows for data preparation, cleaning, and trend analysis
+- Developed Power BI dashboards to communicate workforce shifts and risk patterns
+- Presented findings through clear visual narratives to support strategic workforce discussions
 
-## 🎓 Education
+### [Power BI Paginated Excel Export](https://github.com/LanaGeis/powerbi-paginated-excel-export)
+**Reusable Power BI reporting solution for structured paginated-report exports to Excel.**
 
-- Master’s in **Data Science (in progress)**
-- Bachelor’s degree in **Economics and Management**
-- Bachelor’s degree in **Accounting**
-- Focus: Machine Learning, Statistics, Predictive Analytics
+- Designed a repeatable workflow for operational reporting distribution
+- Supported consistent, business-friendly Excel output from Power BI paginated reports
+- Demonstrated scalable reporting design aligned with recurring business processes
 
----
+### [US Baby Names Exploration (1880–2019)](https://github.com/LanaGeis/US_baby_names_exploration)
+**Exploratory analysis of 140 years of historical naming data.**
 
-## 🚀 What I Do
+- Cleaned, structured, and analyzed long-range data in Python
+- Identified trend cycles, popularity shifts, and generational patterns through visualization
+- Translated raw data into a concise, narrative-driven analytical story
 
-- 📊 Analyze data to uncover trends, risks, and opportunities
-- 📈 Build Power BI dashboards and reporting solutions for business decision-making
-- 🧾 Develop KPI tracking and executive-ready reports
-- 🤖 Build models for prediction and anomaly detection
-- 🧹 Clean, transform, and structure messy real-world data
+### [Student Math Misunderstandings (Kaggle NLP)](https://github.com/LanaGeis/MAP-Student-Math-Misunderstandings_Kaggle)
+**NLP project focused on identifying misconception patterns in open-ended student responses.**
 
----
-
-## 📊 Power BI Development
-
-- Build interactive dashboards and executive-ready reports
-- Create KPI tracking and performance-monitoring solutions
-- Transform raw data into clear, business-friendly visuals
-- Support decision-making with scalable reporting workflows
-- Combine analytics and storytelling to make insights easy to act on
+- Applied TF-IDF, embeddings, and classification techniques to text-based data
+- Explored patterns that can help surface misunderstandings at scale
+- Connected model outputs to practical interpretation and insight generation
 
 ---
 
-## 📂 Featured Projects
+## Professional Background
 
-### 🔹 [Employment Trend Analysis](https://github.com/LanaGeis/Employment-Trend-Analysis)
-Analyzed the impact of AI and automation on jobs using BLS and O*NET data.
-- Built Python workflows for data cleaning, analysis, and trend exploration
-- Developed Power BI dashboards to communicate workforce patterns and risk areas
-- Translated labor market data into business-friendly visual insights for decision-making
-
----
-
-### 🔹 [Power BI Paginated Excel Export](https://github.com/LanaGeis/powerbi-paginated-excel-export)
-Built a Power BI solution for exporting paginated reports to Excel to support structured reporting and business workflows.
-- Created a reusable solution focused on paginated report export processes
-- Supported operational reporting needs with Excel-based output from Power BI
-- Demonstrated practical Power BI development for business reporting use cases
+- 17+ years in finance, billing operations, revenue analytics, and business reporting
+- Strong foundation in financial analysis, reconciliations, performance monitoring, and data-driven decision-making
+- Experienced in communicating analytical findings to both technical and non-technical stakeholders
+- Master’s in **Data Science** in progress, with bachelor’s degrees in **Economics and Management** and **Accounting**
 
 ---
 
-### 🔹 [US Baby Names Exploration (1880–2019)](https://github.com/LanaGeis/US_baby_names_exploration)
-Explored 140 years of naming trends to identify cultural and generational patterns.
-- Cleaned and prepared long-range historical data for analysis in Python
-- Created visualizations to highlight naming shifts, popularity cycles, and social trends
-- Used exploratory analysis to turn raw data into a clear narrative supported by visuals
-
----
-
-### 🔹 [Student Math Misunderstandings (Kaggle NLP)](https://github.com/LanaGeis/MAP-Student-Math-Misunderstandings_Kaggle)
-Built an NLP-based project to identify student misconceptions from open-ended responses.
-- Applied TF-IDF, embeddings, and classification models to text-based educational data
-- Explored how machine learning can surface misunderstanding patterns at scale
-- Combined analytical modeling with practical interpretation of model outputs
-
----
-
-## 🤝 Let’s Connect
-
-📫 [LinkedIn](https://www.linkedin.com/in/lana-geissinger-b76690113)
-
----
-
-## 🛠️ Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-1F77B4?style=for-the-badge&logo=r&logoColor=white)
+## Languages & Tools
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Excel Automation](https://img.shields.io/badge/Excel%20Automation-VBA%20%7C%20Formulas-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lana-geissinger-b76690113)
+
+Open to Financial Analyst, Data Analyst, Business Intelligence Analyst, Revenue Analyst, and Power BI-focused opportunities where analytics supports measurable business outcomes.
