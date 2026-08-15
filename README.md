@@ -2,77 +2,85 @@
 
 # Hi, I'm Lana Geissinger
 
-## Financial & Data Analyst | Power BI Reporting | SQL | Python | R
+I combine finance operations, analytics, automation, and applied AI to solve real business problems.
 
-I am a Financial Billing Analyst with 17+ years of experience across finance, billing operations, revenue analytics, and business reporting. I build Power BI dashboards, automate recurring reporting workflows, and turn complex financial and operational data into clear, KPI-driven insights for business and executive decision-making.
+I’m a Financial Billing Analyst II with 15+ years of experience across finance, accounting, billing, and business operations. I build practical analytics and automation solutions that support better decisions and more efficient workflows.
 
-**Focus:** Financial analysis • Power BI reporting • Revenue and billing analytics • KPI development • Reporting automation • Data storytelling
-
----
-
-## What I Bring
-
-- Deliver Power BI dashboards and executive-ready reports that make performance easy to monitor and act on
-- Analyze financial and operational data to identify trends, variances, risks, and opportunities
-- Develop KPI scorecards and reporting frameworks that align metrics with business priorities
-- Translate stakeholder questions into practical data requirements, metrics, visuals, and actionable insights
-- Improve reporting consistency through streamlined, repeatable workflows and data-quality-focused analysis
+I’m currently completing an M.S. in Data Science.
 
 ---
 
-## Analytics & BI Toolkit
+## What I work on
 
-| Area | Skills |
-| --- | --- |
-| **Power BI** | Data modeling, DAX, Power Query, dashboard design, drill-through reporting, KPI scorecards, paginated reporting |
-| **SQL** | Data extraction, joins, aggregations, transformations, and metric logic |
-| **Python** | pandas, exploratory data analysis, data cleaning, transformation, and visualization |
-| **R** | Statistical analysis, visualization, and exploratory analysis |
-| **Business Analytics** | Financial reporting, revenue and billing analytics, variance analysis, trend analysis, root-cause investigation |
-| **Reporting Tools** | Excel, Tableau, Jupyter Notebook, RStudio, Git/GitHub |
+- Finance and billing analytics
+- AI-assisted analysis and decision support
+- Business process automation
+- Reporting and KPI development for operational and leadership use
 
 ---
 
-## Featured Projects
+## Featured projects
 
-### [Employment Trend Analysis](https://github.com/LanaGeis/Employment-Trend-Analysis)
-**Workforce analytics project using BLS and O*NET data to examine AI and automation impacts on jobs.**
+### Verielle — Applied AI Decision-Support System *(in progress)*  
+**Problem:** People need structured support for complex decisions, not generic AI output.  
+**Approach:** Designed a guided flow from assessment and profile context to personalized outputs.  
+**Built with:** Streamlit, hybrid retrieval, RAG, FLAN-T5 experimentation, prompt/context engineering.  
+**Result:** Working prototype and evolving case study focused on practical, human-centered AI use.
 
-- Built Python workflows for data preparation, cleaning, and trend analysis
-- Developed Power BI dashboards to communicate workforce shifts and risk patterns
-- Presented findings through clear visual narratives to support strategic workforce discussions
+### [Employment Trend Analysis](https://github.com/LanaGeis/Employment-Trend-Analysis)  
+**Problem:** Understand workforce trends and automation impact using public data.  
+**Approach:** Prepared and analyzed BLS/O*NET data, then translated findings into clear reporting.  
+**Built with:** Python, Power BI.  
+**Result:** Decision-friendly visuals and trend insights.
 
-### [Power BI Paginated Excel Export](https://github.com/LanaGeis/powerbi-paginated-excel-export)
-**Reusable Power BI reporting solution for structured paginated-report exports to Excel.**
+### [Power BI Paginated Excel Export](https://github.com/LanaGeis/powerbi-paginated-excel-export)  
+**Problem:** Create consistent, repeatable Excel outputs from paginated reporting workflows.  
+**Approach:** Built a reusable reporting/export process for recurring operational needs.  
+**Built with:** Power BI Paginated Reports.  
+**Result:** More standardized reporting output for business use.
 
-- Designed a repeatable workflow for operational reporting distribution
-- Supported consistent, business-friendly Excel output from Power BI paginated reports
-- Demonstrated scalable reporting design aligned with recurring business processes
-
-### [US Baby Names Exploration (1880–2019)](https://github.com/LanaGeis/US_baby_names_exploration)
-**Exploratory analysis of 140 years of historical naming data.**
-
-- Cleaned, structured, and analyzed long-range data in Python
-- Identified trend cycles, popularity shifts, and generational patterns through visualization
-- Translated raw data into a concise, narrative-driven analytical story
-
-### [Student Math Misunderstandings (Kaggle NLP)](https://github.com/LanaGeis/MAP-Student-Math-Misunderstandings_Kaggle)
-**NLP project focused on identifying misconception patterns in open-ended student responses.**
-
-- Applied TF-IDF, embeddings, and classification techniques to text-based data
-- Explored patterns that can help surface misunderstandings at scale
-- Connected model outputs to practical interpretation and insight generation
+### [US Baby Names Exploration](https://github.com/LanaGeis/US_baby_names_exploration)  
+**Problem:** Explore long-term pattern shifts in historical naming data.  
+**Approach:** Cleaned and analyzed multi-decade data with visual exploration.  
+**Built with:** Python.  
+**Result:** Clear trend narratives from large historical datasets.
 
 ---
 
-## Professional Background
+## Capabilities
 
-- 17+ years in finance, billing operations, revenue analytics, and business reporting
-- Strong foundation in financial analysis, reconciliations, performance monitoring, and data-driven decision-making
-- Experienced in communicating analytical findings to both technical and non-technical stakeholders
-- Master’s in **Data Science** in progress, with bachelor’s degrees in **Economics and Management** and **Accounting**
+- Translate business questions into metrics, logic, and analysis plans
+- Build dashboards and reporting that support action
+- Use Python/SQL for data preparation, analysis, and prototyping
+- Apply automation to reduce repetitive manual work
+- Design practical AI workflows with human review in mind
 
 ---
+
+## Current technical development
+
+I’m currently deepening hands-on implementation in:
+
+- LLM applications and retrieval design (RAG)
+- API-based app structure
+- Containerization and cloud deployment basics
+- Monitoring and reliability for applied AI workflows
+
+---
+
+## Selected technologies
+
+Python, SQL, Power BI, Excel, Power Automate, Office Scripts, R, Tableau, Git/GitHub, Generative AI, RAG
+
+---
+
+## Education
+
+- M.S. in Data Science *(in progress)*
+- B.A./B.S. in Economics and Management, and Accounting
+
+---
+
 
 ## Languages & Tools
 
