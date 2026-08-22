@@ -42,12 +42,6 @@ Developed as an experimental prototype, Verielle explores how generative AI can 
 **Built with:** Power BI Paginated Reports.  
 **Result:** More standardized reporting output for business use.
 
-### [US Baby Names Exploration](https://github.com/LanaGeis/US_baby_names_exploration)  
-**Problem:** Explore long-term pattern shifts in historical naming data.  
-**Approach:** Cleaned and analyzed multi-decade data with visual exploration.  
-**Built with:** Python.  
-**Result:** Clear trend narratives from large historical datasets.
-
 ---
 
 ## Capabilities
