@@ -22,11 +22,11 @@ I’m currently completing an M.S. in Data Science.
 ## Featured projects
 
 ### [Verielle](https://github.com/LanaGeis/verielle) — Applied AI Decision-Support System *(in progress)*  
-**Verielle** is a prototype AI critical-thinking companion designed to help people think through complex decisions rather than make decisions for them.
+**Verielle** is a prototype AI critical-thinking companion designed to help people work through complex decisions with more structure and clarity.
 
-The prototype combines a personal Thinking Profile, a curated wisdom library, hybrid RAG, and a fine-tuned language model to offer another perspective on a user’s dilemma. An additional **Thinking Crew** uses prompt engineering to examine the same question through several different reasoning lenses.
+It combines a personal Thinking Profile, a curated wisdom library, hybrid RAG, and a fine-tuned language model to offer a thoughtful additional perspective on a user’s dilemma. A **Thinking Crew** further evaluates the same question through multiple reasoning lenses using prompt engineering.
 
-Verielle was developed as an experimental prototype to explore how generative AI can support human reflection and critical thinking while keeping the final judgment where it belongs—with the human.
+Developed as an experimental prototype, Verielle explores how generative AI can support human reflection and critical thinking while keeping final judgment with the human.
 
 **Borrow the machine’s perspective. Keep the decision human.**
 
