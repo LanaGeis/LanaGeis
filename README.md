@@ -4,9 +4,9 @@
 
 I combine finance operations, analytics, automation, and applied AI to solve real business problems.
 
-I’m a Financial Billing Analyst II with 15+ years of experience across finance, accounting, billing, and business operations. I build practical analytics and automation solutions that support better decisions, stronger reporting, and more efficient workflows.
+I’m a Financial Billing Analyst II with 17+ years of experience across finance, accounting, billing, and business operations. I build practical analytics and automation solutions that support better decisions, stronger reporting, and more efficient workflows.
 
-I’m currently completing an M.S. in Data Science.
+My current focus is business process automation and AI-enabled solutions, using data and technology to make complex processes work better.
 
 ---
 
