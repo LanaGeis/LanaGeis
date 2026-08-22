@@ -21,7 +21,7 @@ I’m currently completing an M.S. in Data Science.
 
 ## Featured projects
 
-### [Verielle](https://github.com/LanaGeis/verielle) — Applied AI Decision-Support System *(in progress)*  
+### [Verielle](https://github.com/LanaGeis/verielle) — Applied AI Decision-Support System  
 **Verielle** is a prototype AI critical-thinking companion designed to help people work through complex decisions with more structure and clarity.
 
 It combines a personal Thinking Profile, a curated wisdom library, hybrid RAG, and a fine-tuned language model to offer a thoughtful additional perspective on a user’s dilemma. A **Thinking Crew** further evaluates the same question through multiple reasoning lenses using prompt engineering.
