@@ -4,7 +4,7 @@
 
 I combine finance operations, analytics, automation, and applied AI to solve real business problems.
 
-I’m a Financial Billing Analyst II with 15+ years of experience across finance, accounting, billing, and business operations. I build practical analytics and automation solutions that support better decisions and more efficient workflows.
+I’m a Financial Billing Analyst II with 15+ years of experience across finance, accounting, billing, and business operations. I build practical analytics and automation solutions that support better decisions, stronger reporting, and more efficient workflows.
 
 I’m currently completing an M.S. in Data Science.
 
@@ -21,11 +21,14 @@ I’m currently completing an M.S. in Data Science.
 
 ## Featured projects
 
-### Verielle — Applied AI Decision-Support System *(in progress)*  
-**Problem:** People need structured support for complex decisions, not generic AI output.  
-**Approach:** Designed a guided flow from assessment and profile context to personalized outputs.  
-**Built with:** Streamlit, hybrid retrieval, RAG, FLAN-T5 experimentation, prompt/context engineering.  
-**Result:** Working prototype and evolving case study focused on practical, human-centered AI use.
+### [Verielle](https://github.com/LanaGeis/verielle) — Applied AI Decision-Support System *(in progress)*  
+**Verielle** is a prototype AI critical-thinking companion designed to help people think through complex decisions rather than make decisions for them.
+
+The prototype combines a personal Thinking Profile, a curated wisdom library, hybrid RAG, and a fine-tuned language model to offer another perspective on a user’s dilemma. An additional **Thinking Crew** uses prompt engineering to examine the same question through several different reasoning lenses.
+
+Verielle was developed as an experimental prototype to explore how generative AI can support human reflection and critical thinking while keeping the final judgment where it belongs—with the human.
+
+**Borrow the machine’s perspective. Keep the decision human.**
 
 ### [Employment Trend Analysis](https://github.com/LanaGeis/Employment-Trend-Analysis)  
 **Problem:** Understand workforce trends and automation impact using public data.  
