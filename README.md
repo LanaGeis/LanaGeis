@@ -4,7 +4,7 @@
 
 I combine finance operations, analytics, automation, and applied AI to solve real business problems.
 
-I’m a Financial Billing Analyst II with 17+ years of experience across finance, accounting, billing, and business operations. I build practical analytics and automation solutions that support better decisions, stronger reporting, and more efficient workflows.
+I’m a Financial Billing Analyst II with 17+ years of experience across finance, accounting, billing, and business operations. I build practical analytics and automation solutions that support better business outcomes.
 
 My current focus is business process automation and AI-enabled solutions, using data and technology to make complex processes work better.
 
@@ -24,7 +24,9 @@ My current focus is business process automation and AI-enabled solutions, using 
 ### [Verielle](https://github.com/LanaGeis/verielle) — Applied AI Decision-Support System  
 **Verielle** is a prototype AI critical-thinking companion designed to help people work through complex decisions with more structure and clarity.
 
-It combines a personal Thinking Profile, a curated wisdom library, hybrid RAG, and a fine-tuned language model to offer a thoughtful additional perspective on a user’s dilemma. A **Thinking Crew** further evaluates the same question through multiple reasoning lenses using prompt engineering.
+It combines a personal Thinking Profile, a curated wisdom library, hybrid RAG, and a fine-tuned language model to offer a thoughtful additional perspective on a user’s dilemma. A **Thinking Crew** framework supports the process.
+
+[Watch a demo of Verielle on YouTube](https://youtu.be/NLmsba7Yhh8?si=KfZMwEUzgb0WzMFQ)
 
 Developed as an experimental prototype, Verielle explores how generative AI can support human reflection and critical thinking while keeping final judgment with the human.
 
