@@ -22,11 +22,12 @@ My current focus is business process automation and AI-enabled solutions, using 
 ## Featured projects
 
 ### [Verielle](https://github.com/LanaGeis/verielle) — Applied AI Decision-Support System  
+[Watch Demo](https://youtu.be/NLmsba7Yhh8?si=KfZMwEUzgb0WzMFQ)  
+<a href="https://youtu.be/NLmsba7Yhh8?si=KfZMwEUzgb0WzMFQ"><img src="https://img.youtube.com/vi/NLmsba7Yhh8/hqdefault.jpg" alt="Verielle demo thumbnail" width="480"></a>
+
 **Verielle** is a prototype AI critical-thinking companion designed to help people work through complex decisions with more structure and clarity.
 
 It combines a personal Thinking Profile, a curated wisdom library, hybrid RAG, and a fine-tuned language model to offer a thoughtful additional perspective on a user’s dilemma. A **Thinking Crew** framework supports the process.
-
-[Watch a demo of Verielle on YouTube](https://youtu.be/NLmsba7Yhh8?si=KfZMwEUzgb0WzMFQ)
 
 Developed as an experimental prototype, Verielle explores how generative AI can support human reflection and critical thinking while keeping final judgment with the human.
 
